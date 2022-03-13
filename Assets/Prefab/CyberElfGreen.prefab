@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2837483563415630513
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7817755157537212777, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_Name
+      value: CyberElfGreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212778, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1d51271fe36abab46a103ed8c9204046, type: 2}
+    - target: {fileID: 7817755157537212779, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6867970676037412104, guid: ca91281857ced0e4d9c9a2f06b27f875, type: 3}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755157537212780, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817755158266354267, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 015f07c25ceb0dc489a84bb23589f2ce, type: 2}
+    - target: {fileID: 7817755158266354268, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: 1014709182346438792, guid: c5d2707ac13a03b4fa74e7f36e311c73, type: 3}
+    - target: {fileID: 7817755158266354268, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: UVModule.sprites.Array.data[1].sprite
+      value: 
+      objectReference: {fileID: 134861731958686867, guid: c5d2707ac13a03b4fa74e7f36e311c73, type: 3}
+    - target: {fileID: 7817755158266354268, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: UVModule.sprites.Array.data[2].sprite
+      value: 
+      objectReference: {fileID: -4894923347886886343, guid: c5d2707ac13a03b4fa74e7f36e311c73, type: 3}
+    - target: {fileID: 7817755158266354268, guid: 7abe25207a0ec63459fee73074e97226, type: 3}
+      propertyPath: UVModule.sprites.Array.data[3].sprite
+      value: 
+      objectReference: {fileID: 4652708386509310103, guid: c5d2707ac13a03b4fa74e7f36e311c73, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7abe25207a0ec63459fee73074e97226, type: 3}

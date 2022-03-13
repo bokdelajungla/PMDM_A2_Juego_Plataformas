@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 1cb9c9f0d62c9574ba4422a1e0d9ea5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8742097616587614858
+    second: zero_Saber_Walk_0
+  - first:
+      213: 7039322780724571785
+    second: zero_Saber_Walk_1
+  - first:
+      213: 3191198459749321163
+    second: zero_Saber_Walk_2
+  - first:
+      213: -4041332119210275147
+    second: zero_Saber_Walk_3
+  - first:
+      213: 8365504248750595379
+    second: zero_Saber_Walk_4
+  - first:
+      213: -129103406542279932
+    second: zero_Saber_Walk_5
+  - first:
+      213: -1280227782084854566
+    second: zero_Saber_Walk_6
+  - first:
+      213: 3579696790991754768
+    second: zero_Saber_Walk_7
+  - first:
+      213: 3439118567464449224
+    second: zero_Saber_Walk_8
+  - first:
+      213: -7039108559964394792
+    second: zero_Saber_Walk_9
+  - first:
+      213: 2426879511122220073
+    second: zero_Saber_Walk_10
+  - first:
+      213: 3662995423427138347
+    second: zero_Saber_Walk_11
+  - first:
+      213: 6751601438702106493
+    second: zero_Saber_Walk_12
+  - first:
+      213: 4021415469062952333
+    second: zero_Saber_Walk_13
+  - first:
+      213: -1372213314787445616
+    second: zero_Saber_Walk_15
+  - first:
+      213: 6414154137327628363
+    second: zero_Saber_Walk_16
+  - first:
+      213: -304052518140185425
+    second: zero_Saber_Walk_17
+  - first:
+      213: -6295893684958624209
+    second: zero_Saber_Walk_18
+  - first:
+      213: -7777902168682592598
+    second: zero_Saber_Walk_19
+  - first:
+      213: -8999177028929063330
+    second: zero_Saber_Walk_20
+  - first:
+      213: 3508387748483202968
+    second: zero_Saber_Walk_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_Saber_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675918b0984dda680800000000000000
+      internalID: -8742097616587614858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e276ce5c2b0b160800000000000000
+      internalID: 7039322780724571785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 51
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c129671a694c20800000000000000
+      internalID: 3191198459749321163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 50
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be481779dd4ae7c0800000000000000
+      internalID: -4041332119210275147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 50
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ddcc9bacd381470800000000000000
+      internalID: 8365504248750595379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 50
+        width: 27
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b21c1c225553ef0800000000000000
+      internalID: -129103406542279932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 50
+        width: 30
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfe397d97bb3ee0800000000000000
+      internalID: -1280227782084854566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 50
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165baee343ada130800000000000000
+      internalID: 3579696790991754768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c43b2aad143abf20800000000000000
+      internalID: 3439118567464449224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 50
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da29eb3f00105e90800000000000000
+      internalID: -7039108559964394792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 50
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9241d15ae020ea120800000000000000
+      internalID: 2426879511122220073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2391432ee295d230800000000000000
+      internalID: 3662995423427138347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77fadaacb182bd50800000000000000
+      internalID: 6751601438702106493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8512cf0010fec730800000000000000
+      internalID: 4021415469062952333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947800b24be4fce0800000000000000
+      internalID: -1372213314787445616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f30a4437a30950800000000000000
+      internalID: 6414154137327628363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f03f78d9c7cbf0800000000000000
+      internalID: -304052518140185425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268a64fc0e70a8a0800000000000000
+      internalID: -6295893684958624209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60fe9cf275f0490800000000000000
+      internalID: -7777902168682592598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56f3dffb208c1380800000000000000
+      internalID: -8999177028929063330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_Saber_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7caaa11c40b030800000000000000
+      internalID: 3508387748483202968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
