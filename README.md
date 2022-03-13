@@ -25,16 +25,22 @@ Deberás entregar la carpeta del proyecto al completo y los archivos del ejecuta
 #
 ## Descripción del Juego
 La idea del proyecto era intentar emular el funcionamiento de la saga de videojuegos **"Megaman Zero"** de la consola GameBoy Advance.
+
 Con esto en mente se han empleado los sprites originales extraidos del juego original, obtenidos buscando por internet. Se han implementado algunos de los comportamientos, aunque no todos, del juego original, como el respawn de enemigos o la barra de vida por secciones.
+
 El objetivo del juego es buscar y recolectar todos los *"CyberElfves"* en el menor tiempo posible, evitando los obstáculos.
+
 Entre dichos obstaculos se encuentran los enemigos (aunque sólo se ha implementado un modelo) que mermarán la barra de vida del jugador, las plataformas móviles, y los barrancos de muerte instantánea.
+
 Para facilitar la tarea se han incluído 2 vidas extras al jugador, para no tener que reiniciar el juego en caso de muerte, y no perder su progreso.
+
 En caso de llegar a recolectar todos los *CyberElves* antes de quedarse sin vidas, sonará una fanfarria y se presentará al jugador su resultado en forma de tiempo empleado.
 Si el tiempo empleado es menor que el guardado en el Highscore, ne informará al jugador del nuevo record y se guardará el nuevo resultado como Highscore.
+
 Esperamos que os guste, y ¡gracias por jugar! :D
 
-#
-## Requisitos:
+---
+## Requisitos de la Actividad:
 ### Escena inicial de introducción al juego
 La escena inicial tiene el nombre de *Title* y contiene un logo, el título y tres botones para iniciar la partida, ver el highscore y salir.
 Se ha incluido música de fondo así como sonidos al pasar el cursor por encima de cada uno de los botones. Además cuando se pulsa un botón produce un sonido diferente.
@@ -48,6 +54,7 @@ El escenario tiene 5 niveles de layering:
 * Background - 0
 * Ground - 1
 * Foreground - 3
+
 Los personajes están representados en el layer 2.
 
 ### Recolección de elementos
@@ -95,6 +102,7 @@ Se ha modificado el icono predeterminado del juego en las opciones del Build->Pl
 ### Cambiar el splash por defecto de Unity. Opcional
 Se ha modificado el splash predeterminado de Unity, y se ha incluído un logo y un fondo difuminado.
 
+---
 ## Autores ✒️
 
 Los componentes del grupo:
