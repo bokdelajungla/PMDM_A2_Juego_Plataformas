@@ -13,6 +13,12 @@ public class CanvasTitleScreenController : MonoBehaviour
     void Start()
     {
         canvasAudioSource = GetComponent<AudioSource>();
+        
+        //First Time - Highscore init
+        if(!PlayerPrefs.HasKey("Highscore"))
+        {
+            PlayerPrefs.SetFloat("Highscore", 3599999f);
+        }
     }
 
     // Update is called once per frame

@@ -54,7 +54,7 @@ public class EnemyController : MonoBehaviour
         float xDistance = Mathf.Abs(playerTransform.position.x - transform.position.x);
         float yDistance = Mathf.Abs(playerTransform.position.y - transform.position.y); 
         //Movement Trigger
-        if(xDistance < detectDistanceX && xDistance > attackRange && yDistance <detectDistanceY)
+        if(xDistance <= detectDistanceX && xDistance > attackRange && yDistance <= detectDistanceY)
         {
             enemyAnimator.SetBool("playerIsClose", true);
             enemyAnimator.SetBool("playerInRange", false);
@@ -63,7 +63,7 @@ public class EnemyController : MonoBehaviour
         }
 
         //Attack Trigger
-        if(xDistance < detectDistanceX && xDistance <= attackRange && yDistance <detectDistanceY)
+        if(xDistance <= detectDistanceX && xDistance <= attackRange && yDistance <= detectDistanceY)
         {
             enemyAnimator.SetBool("playerIsClose", true);
             enemyAnimator.SetBool("playerInRange", true);
@@ -72,7 +72,7 @@ public class EnemyController : MonoBehaviour
 
         }
         //Stop trigger
-        if(xDistance > detectDistanceX && yDistance <detectDistanceY)
+        if(xDistance > detectDistanceX && yDistance > detectDistanceY)
         {
             enemyAnimator.SetBool("playerIsClose", false);
             enemyAnimator.SetBool("playerInRange", false);
